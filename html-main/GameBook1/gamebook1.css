@@ -2,7 +2,7 @@
  * gamebook1
  * Yusuke Kato
  * start: 9.6.2016
- * last : 9.7.2016
+ * last : 9.9.2016
  */
 
 body {
@@ -10,6 +10,9 @@ body {
 }
 .text-color {
     color: darkblue;
+}
+.text-color2 {
+    color: #9900FF;
 }
 .stage-color {
     color: red;
@@ -21,28 +24,28 @@ div {
     left: 500px;
     top: 50px;
     width: 500px;
-    height: 300px;
+    height: 330px;
     background-color: lightgreen;
 }
 #panel2 {
     left: 500px;
     top: 400px;
     width: 150px;
-    height: 150px;
+    height: 220px;
     background-color: #77FF88;
 }
 #panel3 {
     left: 680px;
     top: 400px;
     width: 150px;
-    height: 150px;
+    height: 220px;
     background-color: #77FF88;
 }
 #panel4 {
     left: 860px;
     top: 400px;
     width: 150px;
-    height: 150px;
+    height: 220px;
     background-color: #77FF88;
 }
 .button {
